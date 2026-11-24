@@ -1,0 +1,6 @@
+# Previous V5 model binaries
+models_store/V5/best_fer_student.onnx.data
+models_store/V5/best_fer_student.pth
+
+# Generated application logs
+outputs/*.csv
